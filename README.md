@@ -1,1 +1,1 @@
-# campo-minado-RISCV
+Se você está entediado ao ponto de ter chegado aqui, ou ainda mais, entediado o suficiente para instalar o RARS (https://github.com/TheThirdOne/rars) e jogar o campo minado, espero que você se divirta na mesma intensidade que eu passei raiva pra implementar isso aqui, tamo junto 🤟
